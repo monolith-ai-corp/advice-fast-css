@@ -1,0 +1,13 @@
+.tab-active {
+    /* border-color: #e16540 !important;
+    background-color: #e16540 !important; */
+    border-color: darksalmon !important;
+    background-color: darksalmon !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+.custom-card {
+    --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, .1), 0 1px 2px -1px rgba(0, 0, 0, .1);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
+}
